@@ -17,6 +17,8 @@ pip install requests
 
 pip install mechanize
 
+rm -rf Old
+
 git clone https://github.com/fardeenkhan089/Old.git
 
 cd Old
